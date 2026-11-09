@@ -29,7 +29,7 @@ During my **2026 AlgoLabs internship at Université de Sherbrooke**, supervised 
 ## Selected computational projects
 
 
-- [Hubbard-model Green's-function solver](https://github.com/YungHairStyle/Lanczos_Green_Hubbard_solver)
+- [Hubbard-model internship report](https://yunghairstyle.github.io/internship-report.pdf)
 - [Statistical-mechanics and entropy demonstration](https://github.com/YungHairStyle/Dice_simulation_Entropy_demo)
 - [Restricted Boltzmann machine demonstration](https://github.com/YungHairStyle/Restricted_Boltzmann_Machine_phase_transition_demo)
 - [Lennard-Jones simulation of argon](https://github.com/YungHairStyle/Argon-LJ-simulation)
@@ -41,8 +41,11 @@ These repositories include research and educational projects at different stages
 ## Research interests and opportunities
 
 
-I am developing toward **quantum simulation of lattice gauge theories and applications to nuclear and particle physics**. I am interested in PhD opportunities for **Fall 2027 or Winter 2028**, as well as research and industry opportunities in quantum algorithms, simulation, and scientific computing.
+I am developing toward **quantum simulation of lattice gauge theories and applications to nuclear and particle physics**. I am interested in research and industry opportunities in quantum algorithms, simulation, and scientific computing, and in PhD opportunities for **Fall 2027 or Winter 2028**.
 
 
 [LinkedIn](https://www.linkedin.com/in/asaad-hanna/)
+
+
+[Google Scholar](https://scholar.google.com/citations?user=4RTsUbIAAAAJ&hl=en) · [Academic CV](https://yunghairstyle.github.io/academic-cv.pdf)
 
